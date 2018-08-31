@@ -1,0 +1,38 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import '~antd/dist/antd.css';
+
+.mr-t-10 {
+  margin-top: 10px;
+}
+.mr-t-20 {
+  margin-top: 20px;
+}
+.mr-r-10 {
+  margin-right: 10px;
+}
+
+.ant-pagination {
+  display: none;
+}
+p.sub-title {
+  font-size: 12px;
+}
+.user-detail-table-opacity span {
+  display: inline-block;
+}
+.user-detail-table-opacity span:first-child {
+  width: 100px;
+}
+
+.login-form {
+  width: 490px;
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.t-spin {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  display: inline-block;
+}
