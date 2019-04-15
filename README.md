@@ -1,4 +1,5 @@
-# web-control-dockerservice
+# Hackathon 2018 of Vinasa 
+# Control DockerService
 
 Using Flask FrameWork control Docker Service on Web Platform
 ---------------
